@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rohitha26
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Rohitha Bandlamuri
+- 👀 I’m interested in Java,Python,Data Structures,HTML,CSS,Mysql
 - 🌱 I’m currently pursuing my Integrated Mtech degree at VIT-AP
 
 
